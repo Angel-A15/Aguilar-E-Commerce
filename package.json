@@ -3,5 +3,23 @@
     "dotenv": "^16.0.3",
     "mysql2": "^2.3.3",
     "sequelize": "^6.24.0"
-  }
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "e-commerce-back-end",
+  "description": "E-commerce Company Development",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Angel-A15/Aguilar-E-Commerce.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Angel-A15/Aguilar-E-Commerce/issues"
+  },
+  "homepage": "https://github.com/Angel-A15/Aguilar-E-Commerce#readme"
 }
