@@ -1,4 +1,4 @@
-E-commerce Back End Starter Code# Aguilar-E-Commerce
+E-commerce Company Development
 
 ## Description
 My client is a manager from a internet retail company and requests to establish the back end development for their website.
