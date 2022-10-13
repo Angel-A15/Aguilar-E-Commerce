@@ -16,6 +16,6 @@ Their standards for the back end are;
 To meet my clients demands, I constructed the back-end code for the application by add the following:
  * Creating databases and tables in the models folder into sequalize syntax that make it easy for a user to understand in
  * Created GET, POST, DELETE, and PUT routes that maniupalte the data to display later in Insomnia for testing
- * Set the data tables up with keys to refer to one another when requesting data from other tables
-
+ * Set the data tables up with keys to refer to one another when requesting data from other table
+ * Executed association methods to create relationships between the tables
 ## Video Demonstration
